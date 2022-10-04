@@ -64,6 +64,7 @@ const AddUser = (props) => {
         </form>
       </Card>
     </div>
+    
   );
 };
 export default AddUser;
